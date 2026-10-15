@@ -13,7 +13,7 @@ Para reproduzir os testes localmente, siga os passos abaixo:
 4. Execute a suíte de testes:
    - `pytest -v`
 
-## 🐛 Falha Detetada e Documentada
+## 🐛 Falha Detectada e Documentada
 Durante a execução, os testes adversariais detetaram um defeito crítico no modelo candidato (V2).
 
 * **Teste que falhou:** `test_contrafactual_campos_irrelevantes`
